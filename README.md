@@ -26,12 +26,12 @@ Import the default export and render in your component:
     { value: 'vanilla', label: 'Vanilla' }
     ]
 
-const MyComponent = () => (
-  <Select options={options} />
-)
+    const MyComponent = () => (
+        <Select options={options} />
+    )
 
-check out [full documentation](https://react-select.com/home)
+check out [full documentation](https://react-select.com/home)\ 
 
-### Possible upgrades and optimization
--- Access area names directly from the state
--- Expand the top companies to gain more detailed information 
+## Possible upgrades and optimization
+    Access area names directly from the state
+    Expand the top companies to gain more detailed information 
